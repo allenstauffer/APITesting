@@ -1,0 +1,27 @@
+{
+  "name": "APITesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^26.1.0"
+  },
+  "devDependencies": {
+    "supertest": "^4.0.2"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allenstauffer/APITesting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allenstauffer/APITesting/issues"
+  },
+  "homepage": "https://github.com/allenstauffer/APITesting#readme"
+}
